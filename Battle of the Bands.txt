@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head> <title> Battle of the Bands</title>
+<link rel="stylesheet" href="Rf.css" type="text/css">
+</head>
+<body>
+<h1> Battle of the Bands </h1>
+<div class="container">
+<img src="BB1.jpg" class="photo">
+<img src="BB2.jpg" class="photo">
+<p> Credits to Kiel Aguilar for the group photo only</p>
+</div>
+<p> What I have learned in this event is that it gives students the opportunity to showcase their musical talents and creativity. This event helps students with talent create many awesome memories not with their bandmates but also the entire school. It also encourages confidence, teamwork, and self-expression through music. This wholesome event brings students together, make participating in school activities more exciting, and help students appreciate different kinds of music and performances.   </p>
+<div class="video">
+<video controls>
+<source src="BB3.mp4" type="video/mp4">
+</video>
+<p>NO credits bc I recorded it./p>
+</div>
+</body>
+</html>

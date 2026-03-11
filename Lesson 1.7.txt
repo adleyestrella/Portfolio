@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 1.7 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 1.7 - JavaScript");
+}
+
+function showInfo(){
+alert("JavaScript is used to make websites interactive!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+</script>
+</head>
+<body>
+<h1> Lesson 1.7 </h1>
+<h2>Email Feedback Form, Submit, Reset, and File Upload</h2>
+<hr>
+<div class="container1">
+<img src="S13.gif" class="gif">
+<div class="text">
+<p>A feedback form allows website visitors to send questions, comments, or messages to the website owner through email. It uses the form tag with attributes like action="mailto:emailaddress", method="get", and enctype="text/plain" to send readable results to an email. </p>
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p>A submit button sends the form information when clicked while a reset button clears all the entered data.</p>
+</div>
+<div class="img">
+<img src="S14.jpg" class="jpg">
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p>A file input allows users to upload files to the server, and the accept attribute specifies what file types such as images, audio, or video are allowed. </p>
+</div>
+</div>
+</body>
+</html>

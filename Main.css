@@ -1,0 +1,83 @@
+body{
+  padding: 15px 30px;
+  font-size: 18px;
+  margin: 15px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: none;
+  background-color: gray;
+  color: white;
+  transition: background-color 0.3s;
+}
+
+h1{
+  font-size: 50px;
+  color: black;
+  text-align:center;
+  margin-top: 50px;
+  font-family: Cooper Black
+  background-color: red;
+}
+
+h2,h3{
+  font-size: 45px;
+  color: purple;
+  text-align:center;
+  margin-top: 50px;
+  font-family: Cooper Black
+  background-color:LightSkyBlue;
+}
+
+p{
+  font-size: 20px;
+  color: firebrick;
+  text-align: center;
+  font-family:Comic Sans MS;
+}
+
+body{
+  font-family: Arial, sans-serif;
+  text-align: center;
+  transition: opacity 0.5s;
+}
+
+ button{
+    padding: 15px 30px;
+    font-size: 18px;
+    margin: 15px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+button:hover{
+  background-color: #45a049;
+}
+
+.text {
+  flex: 1;
+  font-size: 18px;
+  margin-right: 20px;
+}
+
+img.gif {
+  border-style: solid;
+  border-color: darkblue;
+  border-radius: 10px;
+  width: 200px 
+}
+
+.images {
+      display: flex;
+      gap: 30%; 
+      margin-bottom: 20px; 
+    }
+
+.back{
+ background-color: lightblue;
+ padding: 10px;
+ border-radius: 10px;
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 4.1 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 4.1 - JavaScript");
+}
+
+function showInfo(){
+alert("JavaScript is used to make websites interactive!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+</script>
+</head>
+<body>
+<h1> Lesson 4.1 </h1>
+<h2> Javascript </h2>
+<hr>
+<div class="container1">
+<div class="text">
+<p>JavaScript is the most widely used scripting language on the internet. It was developed by Brendan Eich and was first called Mocha, then LiveScript, before being renamed JavaScript. It is a client-side, high-level, interpreted, and object-oriented language used to make websites dynamic and interactive. 
+</p>
+</div>
+<div class="img">
+<img src="JS1.jpg" class="jpg">
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p>JavaScript allows websites to respond to events like mouse clicks, validate form data, create cookies, and enhance webpage features. It works with HTML and CSS to create dynamic web pages and effects such as animations and interactive menus.
+</p>
+</div>
+<div class="img">
+<img src="JS2.jpg" class="jpg">
+</div>
+</div>
+
+<div class="container">
+<div class="text">
+<p> Some advantages of JavaScript include being lightweight, easy to learn, supported by most browsers, and fast to run. However, it also has disadvantages such as security risks, code exposure, and limited support on some browsers.</p>
+</div>
+<div class="img">
+<img src="JS3.gif" class="gif">
+</div>
+</div>
+
+<div class="container">
+<div class="text">
+<p> Overall, JavaScript is an essential tool for creating interactive and functional websites, and it can be written using a text editor and viewed in a web browser.</p>
+</div>
+<div class="img">
+<img src="JS4.jpg" class="jpg">
+</div>
+</div>
+</body>
+</html>

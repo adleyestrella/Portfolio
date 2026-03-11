@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 1.4 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 1.4 - JavaScript");
+}
+
+function showInfo(){
+alert("JavaScript is used to make websites interactive!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+</script>
+</head>
+<body>
+<h1> Lesson 1.4 </h1>
+<h2>Input Type Tags</h2>
+<hr>
+<div class="container1">
+<img src="S8.jpg" class="jpg">
+<div class="text">
+<p>HTML5 Input Types are used in the input tag to collect different kinds of user data. Examples include color, date, email, month, datetime, number, range, search, time, URL, and telephone. </p>
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p>Forms are used to collect information from users. They contain fields such as textboxes, password boxes, radio buttons, checkboxes, dropdown menus, and buttons like submit or reset. The form tag is used to create forms and has two main attributes: action, it is where the data is sent and method, it is how the data is sent, either GET or POST. Other important input attributes include autofocus, placeholder, required, multiple, size, and pattern. Form data is usually processed by web technologies like ASP or PHP, which handle dynamic content and data processing on websites.</p>
+</div>
+<div class="img">
+<img src="S9.gif" class="gif">
+</div>
+</div>
+</body>
+</html>

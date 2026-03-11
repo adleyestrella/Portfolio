@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 3.1 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 3.1 - JavaScript");
+}
+
+function showInfo(){
+alert("JavaScript is used to make websites interactive!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+</script>
+</head>
+<body>
+<h1> Lesson 3.1 </h1>
+<h2> CSS Typography </h2>
+<hr>
+<div class="container1">
+<div class="text">
+<p>CSS typography encompasses the properties and techniques used to style and arrange text on a web page to ensure legibility, readability, and visual appeal. It allows you to use properties like styling text using font-size, font-family, or font-variant, controling layout and spacing using line-height or letter-spacing and adding text decoration and transformation using text-decoration and text-shadow.</p>
+</div>
+<div class="img">
+<img src="L1.jpg" class="jpg">
+</div>
+</div>
+</body>
+</html>

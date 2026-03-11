@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 3.3 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 3.3 - JavaScript");
+}
+
+function showInfo(){
+alert("JavaScript is used to make websites interactive!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+</script>
+</head>
+<body>
+<h1> Lesson 3.3 </h1>
+<h2> Formatting Layout with CSS </h2>
+<hr>
+<div class="container1">
+<img src="L3.gif" class="gif">
+<div class="text">
+<p>The CSS box model treats every element as a rectangular box composed of content, padding, borders, and margins.  </p>
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p>CSS lets you explores how to control the dimensions of these boxes using height and width properties. For precise layout control, it details four element positioning schemes: static, which is the default flow; relative, which offsets an element from its original position; absolute, which positions an element based on a specific reference point; and fixed, which keeps an element stationary even when the page scrolls. You can use offset to adjust the placement of elements within a web layout, primarily through the position property which are top, right, bottom, and left. It also allows you to use float to wrap text around elements, though this often requires the clear property to manage the flow.</p>
+</div>
+<div class="img">
+<img src="L4.jpg" class="jpg">
+</div>
+</div>
+
+<div class="container1">
+<img src="L5.gif" class="gif">
+<div class="text">
+<p>CSS also allows you to adjust the background of your website by using properties like background attachment property, background-image, background-repeat, and packground-position and set margins using the margin property.  </p>
+</div>
+</div>
+</body>
+</html>

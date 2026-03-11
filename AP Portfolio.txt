@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head><title> AP Portfolio </title>
+<link rel="stylesheet" href="APc.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Maligayang pagdating sa aking AP Portfolio!");
+}
+</script>
+</head>
+<head>
+<body>
+<h1> Araling Panlipunan Portfolio </h1>
+<h2 class="text"> Rae Adley B. Estrella </h2>
+<h3 class="text"> 9-Family </h3>
+<div class="an">
+<h4> Araling Panlipunan 2nd Quarter Contents </h4>
+<a href="Demand.html" target="_blank"> Demand </a><br>
+<a href="Supply.html" target="_blank"> Supply </a><br>
+<a href="Price Elasticity.html" target="_blank"> Price Elasticity </a><br>
+<a href="Market Equilibrium.html" target="_blank"> Market Equilibrium </a><br>
+<a href="Pamilihan.html" target="_blank"> Pamilihan </a><br>
+<a href="Kontrol ng Presyo ng Pamahalaan.html" target="_blank"> Pagkontrol ng Presyo ng Pamahalaan </a>
+</div>
+<br>
+<div class="an">
+<h5> Repleksyon </h5>
+<p> Sa quarter na ito, nalaman ko kung gaano kahalaga ang pag-aaral tungkol sa ekonomiya na nakakaapekto sa ating buhay. Isa sa mga aral na natutunan ko ay tungkol sa demand at kapag mataas ang presyo, mababa ang demand na may katuturan kapag mahal ang isang bagay, kakaunti ang tao pero ito o hindi. Hindi lang nito binago kung paano tayo tumitingin at bumibili ng mga produkto at serbisyo, kundi pati na rin kung paano naghahanap ng paraan ang mga nagbebenta para mapabuti ang kanilang benta sa pinakamatalinong paraan. Magagamit ko ang mga araling ito upang gabayan ako sa hinaharap para malaman ko ang tamang desisyon pagdating sa pagbili o pagbebenta. Kung wala akong natutunan sa quarter na ito, hindi ako matututong gumawa ng tamang desisyon at hindi ko malalaman kung ano ang nangyayari sa ekonomiya.</p>
+</div>
+<div class="an">
+<h4> Araling Panlipunan 4th Quarter Contents </h4>
+<a href="Pambansang Kaunlaran.html" target="_blank"> Pambansang Kaunlaran </a><br>
+<a href="Sektor ng Agrikulture.html" target="_blank"> Sektor ng Agrikultura </a><br>
+<a href="Sektor ng Industriya.html" target="_blank"> Sektor ng Industriya </a><br>
+<a href="Sektor ng Paglilingkod.html" target="_blank"> Sektor ng Paglilingkod </a><br>
+<a href="Impormal na Sektor.html" target="_blank"> Impormal na Sektor </a><br>
+<a href="Patakarang Panlabas.html" target="_blank"> Patakarang Panlabas </a><br>
+</div>
+<br>
+<div class="an">
+<h5> Repleksyon </h5>
+<p> Sa quarter na ito, nalaman ko kung gaano kahalaga ang pag-aaral tungkol sa pambansang kaunlaran, mga sector ng ekonomiya, impormal na sector at iba pang aralin sa Araling Panlipunan. Natutunan ako ng pambansang kaunlaran na nakatatamasa ng makabuluhang pagbabago sa ekonomiya at pamumuhay ng mga mamamayan. Ang mga sektor tulad ng sektor ng agrikultura, sector ng industriya at sector paglilingkod, ay mahalaga dahil suporta ang mga sector na pagkaroon ng mga mamamayan ng mga likas na yaman upang maging isang produkto para sa ating mga pangangailangan at magbigyang opportunidad ng mga tao na pagkaroon ng trabaho. Ang mga aralin na natutunan ko ay magtulungang sa isa't isa upang lumikha ng mga trabaho, gumawa ng mga produkto at serbisyo, dagdagan ang kita, at palakasin ang ekonomiya ng bansa, na humahantong sa pambansang kaunlaran.
+ </p>
+</div>
+</body> 
+</html>
+

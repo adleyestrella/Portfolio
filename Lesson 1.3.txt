@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 1.3 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 1.3 - JavaScript");
+}
+
+function showInfo(){
+alert("JavaScript is used to make websites interactive!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+</script>
+</head>
+<body>
+<h1> Lesson 1.3 </h1>
+<h2>Hyperlinks</h2>
+<hr>
+<div class="container1">
+<img src="S6.jpg" class="jpg">
+<div class="text">
+<p>HTML links can be external or internal. A dead link leads to a page that no longer exists and shows errors like “File not found.” Links are created using the anchor tag, and images or graphics can also be used as links. </p>
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p>Forms are used to collect information from users. They contain fields such as textboxes, password boxes, radio buttons, checkboxes, dropdown menus, and buttons like submit or reset. The form tag is used to create forms and has two main attributes: action, it is where the data is sent and method, it is how the data is sent, either GET or POST.</p>
+</div>
+<div class="img">
+<img src="S7.jpg" class="jpg">
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p>Some form elements include datalist which shows suggested input options, keygen which generates security keys, and output which displays results of calculations. </p>
+</div>
+</div>
+</body>
+</html>

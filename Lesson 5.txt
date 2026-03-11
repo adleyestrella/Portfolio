@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 5 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+</head>
+<body>
+<h1> Lesson 5 </h1>
+<h2> CSS Selectors and Its Types </h2>
+<hr>
+<div class="container">
+<div class="text">
+<p><span>Selectors</span> are used to specify which html element you want to style. There are many types of selector which are element selector, id selector, universal selector, group selector, class selector, and attribute selector.</p>
+</div>
+<div class="img">
+<img src="code11.jpg" class="gif">
+</div>
+</div>
+
+<div class="container1">
+<img src="ES.jpg" class="gif">
+<p> The <span> element selector</span> is used when we want to style a HTML tag we chose.</p>
+</div>
+
+<div class="container">
+<div class="text">
+<p> The <span>class selector</span> is used when we want to add styles to more that one elements because their styles are the same to each other. It starts using the name of tag which you can either use it or not, and put any text which serve as your name of your class in the HTML code.</p>
+</div>
+<div class="img">
+<img src="CS.png" class="gif">
+</div>
+</div>
+
+<div class="container1">
+<img src="IS.jpg" class="gif">
+<p><span>Id selectors</span> are used to style element that are seen only once like header and footer. It starts with a pound sign(#) to define it as an id selector and uses the attribute of HTML element.</p>
+</div>
+
+
+<div class="container">
+<div class="text">
+<p> <span>Universal selector</span> is used when you want to style every single HTML elements on your webpage and it uses the asterisk(*) which is the symbol for this selector.</p>
+</div>
+<div class="img">
+<img src="US.jpg" class="gif">
+</div>
+</div>
+
+<div class="container1">
+<img src="GS.jpg" class="gif">
+<p> <span>Group selector</span> is similar to the element selector but it lets you add more HTML elements so that you can put the same styles for all of them.</p>
+</div>
+
+<div class="container">
+<div class="text">
+<p> <span>Attribute selector</span> is used when you want style elements according to their attribute. It starts with the syntax:  Element[attribute] along with the {property: value;}. </p>
+</div>
+<div class="img">
+<img src="AS.jpg" class="gif">
+</div>
+</div>
+<div class="container">
+<img src="Lesson5.png" class="gif">
+<img src="Lesson5 1.png" class="gif">
+</div>
+<a href="Lesson 6.html" target="_blank"> Click to the next page</a><br>
+<a href="Lesson 4.html" target="_blank"> Click to the previous page</a>
+</body>
+</html>
+
+
+

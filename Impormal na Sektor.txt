@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head><title> Impormal na Sektor </title>
+<link rel="stylesheet" href="APc.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Lahat tungkol sa Impormal na Sektor");
+}
+</script>
+</head>
+<head>
+<body>
+<h1>Impormal na Sektor </h1>
+<h2> Impormal a Sektor</h2>
+<div class="right1">
+<img src="IS1.jpg" class="right">
+<p> Ang impormal na sektor ay tumutukoy sa sektor ng ekonomiya na walang pormal o salat sa mga dokumentong kailangan sa pagsasagawa ng gawaing pang-ekonomiya. Ang kita ng sektor na ito ay hindi naisasama sa kabuuang GDP ng bansa. Halimbawa ay mga nagtitinda sa kalsada at karpintero.</p>
+</div>
+
+<h3>Katangian ng Impormal na Sektor</h3>
+<div class="normal">
+<ul>
+<li>Hindi nakarehistro sa pamahalaan.</li>
+<li> Hindi nagbabayad ng buwis mula sa kinita. </li>
+<li> Walang legal at pormal na balangkas mula sa pamahalaan para sa pagnenegosyo. </li>
+</ul>
+<img src="IS2.jpg" class="center">
+</div>
+
+<h4> Iba't Ibang Anyo ng Impormal na Sektor </h4>
+<div class="normal">
+<ul>
+<li>Mga gawaing maaaring isakatuparan lamang sa loob ng tahanan</li>
+<li> Mga gawaing pansibiko, pagkakawanggawa, at panrelihiyon </li>
+<li> Mga sari-sari stores, pagtitinda sa labas ng bahay o sidewalk, paglalako ng kalakal o serbisyo </li>
+<li> Ilegal na gawain tulad ng pagnanakaw, pagbebenta ng ilegal na gamot, piracy, at prostitusyon</li>
+</ul>
+<img src="IS3.jpg" class="center">
+</div>
+
+<h5> Dahilan Kung Bakit Pumapasok sa Impormal na Sector ang mga Mamamayan </h5>
+<div class="left1">
+<img src="IS4.jpg" class="left">
+<ul>
+<li>Makaligtas sa pagbabayad ng buwis sa pamahalaan.</li>
+<li> Makaiwas sa masyadong mahaba at masalimuot na proseso ng pakikipagtransaksyon sa pamahalaan (bureaucratic red tape).</li>
+<li> Kawalan ng regulasyon mula sa pamahalaan na kung saan ang mga batas at programa ay hindi naitutupad nang maayos.</li>
+<li> Makapaghanapbuhay nang hindi nangangailangan  ng malaking kapital o puhunan.</li>
+<li> Malabanan ang matinding kahirapan </li>
+</ul>
+</div>
+
+<h6> Mga Batas, Programa, at Patakarang Pang-ekonomiya sa Impormal na Sektor </h6>
+<div class="normal">
+<img src="IS5.jpg" class="center">
+<ul>
+<li>Social Reform and Poverty Alleviation Act of 1997 (R.A 8425)</li>
+<li> Magna Carta of Women (R.A 9710)</li>
+<li> Philippine Labor Code (P.D 422)</li>
+<li> Technical  Education  and  Skills  Development  Act  of  1994 (R.A 7796)</li>
+<li> Social Security Act of 1997 (R.A 8282)</li>
+<li> National Health Insurance Act of 1995 (R.A 7875)</li>
+</ul>
+</div>
+<a href="Patakarang Panlabas.html" target="_blank"> Pindutin para sa susunod na pahina.  </a><br>
+<a href="Sektor ng Paglilingkod.html" target="_blank"> Pindutin para sa nakaraang pahina.  </a>
+</body>
+</html>

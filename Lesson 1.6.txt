@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 1.6 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 1.6 - JavaScript");
+}
+
+function showInfo(){
+alert("JavaScript is used to make websites interactive!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+</script>
+</head>
+<body>
+<h1> Lesson 1.6 </h1>
+<h2>Button, Check Boxes, and Drop-Down Menus</h2>
+<hr>
+<div class="container1">
+<img src="S12.gif" class="gif">
+<div class="text">
+<p>Radio buttons allow users to select only one option from multiple choices and buttons with the same name belong to the same group. A drop-down menu lets users choose one option from a list, similar to radio buttons, uses the select container tag and each item is defined with option container tag, where value sets the option value and selected sets the default choice. Checkboxes allow users to select multiple options at the same time and the checked attribute can set a checkbox as selected by default. </p>
+</div>
+</div>
+</body>
+</html>

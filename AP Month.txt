@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head> <title> AP Month </title>
+<link rel="stylesheet" href="Rf.css" type="text/css">
+</head>
+<body>
+<h1> AP Month </h1>
+<div class="container">
+<img src="AP1.jpg" class="photo">
+<img src="AP2.jpg" class="photo">
+<p> Credits to Juan Ameilia I. Dandan </p>
+</div>
+<p>The most important lesson I have learned in the AP month is to appreciate our history, culture, and identity as Filipinos. It help us recognize our role as a citizen to the Philippines. I can apply this topic to real-life situations by speaking in tagalog for our culture and respecting other people. I did participate in an event before about the Philippine waters. If I were to teach this topic to my classmates, I would explain our responsibilities as a citizen of our country. It is important to celebrate AP month because it reminds us to be grateful and respect our roles as a citizen and to our country. 
+</p>
+<div class="video">
+<video controls>
+<source src="AP.mp4" type="video/mp4">
+</video>
+<p>Credits to Juan Ameilia I. Dandan</p>
+</div>
+</body>
+</html>

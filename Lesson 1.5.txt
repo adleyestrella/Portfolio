@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 1.5 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 1.5 - JavaScript");
+}
+
+function showInfo(){
+alert("JavaScript is used to make websites interactive!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+</script>
+</head>
+<body>
+<h1> Lesson 1.5 </h1>
+<h2>Input Element</h2>
+<hr>
+<div class="container1">
+<img src="S10.jpg" class="jpg">
+<div class="text">
+<p>The input element is used in forms to create fields like textboxes, password boxes, checkboxes, radio buttons, submit buttons, and reset buttons depending on the type attribute. </p>
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p>Important input attributes include name which identifies the input field, type which specifies the kind of input, size which sets the width of the field, value which sets the default text or button label, and checked which sets a checkbox or radio button as selected by default. HTML also supports many input types such as color, date, datetime, email, month, number, range, search, tel, time, and URL.</p>
+</div>
+<div class="img">
+<img src="S11.jpg" class="jpg">
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p>A textbox is used for single-line input, while a text area is used to allow users to enter longer text or feedback.</p>
+</div>
+</div>
+</body>
+</html>

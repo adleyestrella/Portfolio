@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head> <title> V-POP </title>
+<link rel="stylesheet" href="Rf.css" type="text/css">
+</head>
+<body>
+<h1> V-POP Performance </h1>
+<div class="container">
+<img src="VPOP1.jpg" class="photo">
+<img src="VPOP2.jpg" class="photo">
+<p> Credits to Jade Imperial</p>
+</div>
+<p> What I have learned in this event is that this isn't just some song with a dance but it has meaning to all of us. It teaches us all kinds of values like kindness, volunteerism, and many more. These values help us guide who we are in life. If we don't have these values, then the world will be full of evil and sin.   </p>
+<div class="video">
+<video controls>
+<source src="VPOP3.mp4" type="video/mp4">
+</video>
+<p>Credits to Sir Estrella</p>
+</div>
+</body>
+</html>
+

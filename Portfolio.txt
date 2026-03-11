@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TLE/ICT Main Page</title>
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <script>
+        // Welcome popup when page loads
+        window.onload = function(){
+            alert("Welcome to the TLE/ICT Main Page!\nCreated by: Rae Adley B. Estrella");
+        }
+
+        // Function to navigate to a lesson
+        function goToLesson(lesson){
+            // Optional: Fade out effect
+            document.body.style.opacity = 0;
+            setTimeout(function(){
+                window.location.href = lesson;
+            }, 500); // half-second delay
+        }
+    </script>
+</head>
+<body>
+<div class="back">
+<h1>Welcome to the Main Page</h1>
+<h2> Rae Adley B. Estrella </h2>
+<h3> 9 - Family </h3>
+</div>
+<p>Select a lesson below:</p>
+
+<!-- Buttons that use JS to navigate -->
+<button onclick="goToLesson('TLE-ICT PORTFOLIO.html')">TLE/ICT</button>
+<button onclick="goToLesson('AP Portfolio.html')">AP</button>
+<button onclick="goToLesson('EVENTS.html')">EVENTS</button>
+<div class="images">
+<img src="m1.gif" class="gif"> 
+<img src="m2.gif" class="gif"> 
+<img src="m3.gif" class="gif">
+</div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 6 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+</head>
+<body>
+<h1> Lesson 6 </h1>
+<h2> Dimensions and Pseudo-Classes </h2>
+<hr>
+<div class="container">
+<div class="text">
+<p> <span>Dimension</span> is the size and the spacing of the elements of the webpage. It mainly focus on height and weight of the element using properties like max-width, max-height, and visibility.</p>
+</div>
+<div class="img">
+<img src="code13.jpg" class="gif">
+</div>
+</div>
+<p> <span>Pseudo classes</span> are not user defined selector but defined by the colon and it is used on specific HTML elements only. In the anchor element, it has 4 pseudo classes: link, hover, visited and active. Each one of them affects the anchor element's behavior.</p>
+<div class="container1">
+<img src="code12.jpg" class="gif">
+<p>The<span>linked pseudo class</span> is for unvisited hyperlinks.<br>
+The <span> visited pseudo class </span> is for visited hyperlinks.<br>
+The <span> hover pseudo-class </span> is used for hyperlinks that when the mouse hovers over the link, it will style the element based on the CSS code you have written.<br>
+The <span>active pseudo-class</span> is used for hyperlinks that when it is clicked, it will style the element based on the CSS code you have written.
+</p>
+</div>
+<div class="container">
+<img src="Lesson6.png" class="gif">
+<img src="Lesson6 1.png" class="gif">
+</div>
+<a href="Lesson 5.html" target="_blank"> Click to the previous page</a>
+</body>
+</html>
+
+
+
+
+

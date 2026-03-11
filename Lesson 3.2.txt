@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 3.2 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 3.2 - JavaScript");
+}
+
+function showInfo(){
+alert("JavaScript is used to make websites interactive!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+</script>
+</head>
+<body>
+<h1> Lesson 3.2 </h1>
+<h2> CSS Text Formatting </h2>
+<hr>
+<div class="container1">
+<img src="L2.gif" class="gif">
+<div class="text">
+<p>CSS typography can allow you to use the text-indent property to shift the first line of a paragraph by a specific measurement, such as pixels or percentages. To control the capitalization of text, you must use the text-transform property to set content to uppercase, lowercase, or capitalized formats. For vertical spacing, the line-height property is used to adjust the gap between lines of text.  CSS typography can let you change the text color or add a background color specifically behind a block of text using the background property without affecting the rest of the page.  </p>
+</div>
+</div>
+</body>
+</html>

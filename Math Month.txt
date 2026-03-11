@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head> <title> Math Month</title>
+<link rel="stylesheet" href="Rf.css" type="text/css">
+</head>
+<body>
+<h1> Math Month Reflection</h1>
+<div class="container">
+<img src="MM1.jpg" class="photo">
+<img src="MM2.jpg" class="photo">
+<img src="MM3.jpg" class="photo">
+<p> Credits to Jade Imperial</p>
+</div>
+<p> What I have learned in this event is that it reminds and helps students appreciate mathematics and understand its value in everyday life. Through different activities and challenges, I learned that math is not only about numbers but also about problem-solving and critical thinking. It also helps me in real-life situations like know the change when you buy something. It also helped me become more confident in my math skills and made learning more enjoyable.  </p>
+</body>
+</html>
+

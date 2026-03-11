@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 4.2 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 4.2 - JavaScript");
+}
+
+function showInfo(){
+alert("Hello There!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+
+</script>
+</head>
+<body>
+<h1> Lesson 4.2 </h1>
+<h2> Where to Place JavaScript </h2>
+<hr>
+<div class="container1">
+<img src="JS8.jpg" class="jpg">
+<div class="text">
+<p>JavaScript can be placed in different parts of an HTML file depending on when the code should run. It can be placed in the HEAD section, where scripts are preloaded before events occur, or in the BODY section, where scripts run when the webpage loads. Scripts can also be placed in both the HEAD and BODY if needed.</p>  
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p>JavaScript can also be stored in an external file (.js) and linked to HTML using the src attribute. This helps reuse the same script across multiple pages. Comments can be added using // for single-line comments or /* */ for multi-line comments.p>
+</div>
+<div class="img">
+<img src="JS9.jpg" class="jpg">
+</div>
+</div>
+
+<div class="container1">
+<img src="JS10.gif" class="gif">
+<div class="text">
+<p>Important JavaScript guidelines include case sensitivity, proper use of whitespace for readability, and correct breaking of code lines.</p>
+</div>
+</div>
+</body>
+</html>

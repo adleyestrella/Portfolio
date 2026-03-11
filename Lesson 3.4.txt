@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 3.4 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 3.4 - JavaScript");
+}
+
+function showInfo(){
+alert("JavaScript is used to make websites interactive!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+</script>
+</head>
+<body>
+<h1> Lesson 3.4 </h1>
+<h2> Formatting Border & Table Using CSS </h2>
+<hr>
+<div class="container1">
+<img src="L6.jpg" class="jpg">
+<div class="text">
+<p>CSS can let you format borders, padding, and tables, which are essential for organizing and visually defining web page content. You can customize borders by defining their thickness, color, and style, such as solid, dashed, or inset, and you have the flexibility to apply these settings to individual sides of an element.  Padding is used to manage the space between an element's content and its border, and the lesson explains that this can be applied either specifically to different sides or equally to all four directions.  CSS can also improve data organization by applying background colors to tables and cells, and discusses how the &lt;table&gt; element itself can be utilized to structure page layouts.  </p>
+</div>
+</div>
+</body>
+</html>

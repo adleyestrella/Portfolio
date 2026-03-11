@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head><title> TLE/ICT Lesson 4.3 </title>
+<link rel="stylesheet" href="codes.css" type="text/css">
+<script>
+window.onload = function(){
+alert("Welcome to Lesson 4.3 - JavaScript");
+}
+
+function showInfo(){
+alert("Hello There Again!");
+}
+
+function goHome(){
+window.location.href="index.html";
+}
+
+</script>
+</head>
+<body>
+<h1> Lesson 4.3 </h1>
+<h2> JavaScript Characteristics and Basics </h2>
+<hr>
+<div class="container1">
+<img src="JS5.gif" class="gif">
+<div class="text">
+<p> JavaScript is an interpreted, client-side scripting language that works with HTML and runs in a web browser. It supports object-oriented programming, where elements are treated as objects with methods and properties.</p>  
+</div>
+</div>
+
+<div class="container1">
+<img src="JS6.jpg" class="jpg">
+<div class="text">
+<p> Key concepts in JavaScript include objects, methods, properties, events, parameters, and data types. Common objects include window, document, math, and navigator, which allow actions like displaying messages, performing calculations, or detecting browser information.</p>  
+</div>
+</div>
+
+<div class="container1">
+<div class="text">
+<p> JavaScript also uses variables to store data, which can have types such as string, integer, float, Boolean, object, array, undefined, and null. Variables are declared using var and must follow rules such as no spaces, not starting with numbers, and being case-sensitive.</p>
+<div class="img">
+<img src="JS7.jpg" class="jpg">
+</div>  
+</div>
+</div>
+</body>
+</html>
+
+
